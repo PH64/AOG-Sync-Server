@@ -12,4 +12,5 @@ Pour une utilisation de plus de 2 machines, il peut être intéressant d’utili
 ![image](https://github.com/PH64/AOG-Sync-Server/blob/b43ced467cb1ac56051254439b47a672c9725b88/serveur.jpg)
 
 Dans le cas de l’utilisation d’AgOpenGPS, la quantité de données étant peu importante, une solution simple et économique est d’installer Syncthing sur un Raspberry Pi.
+
 Cette solution permet la synchronisation des parcelles entre tracteur mais n’est en aucun cas une solution pour la sauvegarde de données.
